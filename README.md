@@ -16,7 +16,7 @@
 ## 4. 이슈 발생
 <img width="1524" alt="image" src="https://user-images.githubusercontent.com/61863242/176138344-63d9ac7c-84ec-40ea-bced-f09a9035bb7f.png">
 
-### 개발환경 세팅하던 중 발생하던 이슈 해결, 이후 tomcat구동 과정 중 사진과 같은 문제가 발생한 상태. (미해결)
+### 개발환경 세팅하던 중 발생하던 이슈 해결, 이후 tomcat구동 과정 중 사진과 같은 문제가 발생한 상태. (해결)
 #### 콘솔에 나타난 에러 메세지
       Jun 28, 2022 5:56:49 PM org.apache.catalina.startup.VersionLoggerListener log
       INFO: Server version name:   Apache Tomcat/9.0.63
